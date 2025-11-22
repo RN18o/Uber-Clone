@@ -1,4 +1,4 @@
-# RideMe – Ride-Sharing Application
+# Uber-Clone – Ride-Sharing Application
 
 A full-stack ride-sharing platform built with **Node.js/Express** backend and **React** frontend, featuring real-time ride matching, fare estimation, and live tracking using Google Maps APIs and WebSockets.
 
